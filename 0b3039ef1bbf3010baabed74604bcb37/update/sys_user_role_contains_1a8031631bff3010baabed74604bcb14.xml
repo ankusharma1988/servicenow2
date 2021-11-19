@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="testank" name="testank">d68031631bff3010baabed74604bcb0c</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-19 14:37:47</sys_created_on>
+        <sys_id>1a8031631bff3010baabed74604bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.testank</sys_name>
+        <sys_package display_value="testAnk" source="x_627807_testank">0b3039ef1bbf3010baabed74604bcb37</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testAnk">0b3039ef1bbf3010baabed74604bcb37</sys_scope>
+        <sys_update_name>sys_user_role_contains_1a8031631bff3010baabed74604bcb14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-19 14:37:47</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
